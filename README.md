@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Welcome to My GitHub Profile!
 
-<!--
-**khawlahalsharaby-cell/khawlahalsharaby-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science & Software Engineering Student** passionate about **Artificial Intelligence**, intelligent backend systems, and modern software development. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Interests:
+* **Artificial Intelligence & Machine Learning:** Neural Networks, Algorithms, AI Agents, Python, FastAPI, Google GenAI.
+* **Software Development:** Mobile & Web development, Clean Code architectures, Problem Solving.
+* **Tools & Environment:** Git, GitHub, VS Code, Linux, Cisco Packet Tracer, Databases.
+
+---
+
+### 🚀 What I'm Focused On:
+* Exploring machine learning models and intelligent automation.
+* Building scalable, high-performance backend systems and smart applications.
+* Continuously expanding my knowledge in computer science and software engineering.
+
+📫 **Let's Connect:** Feel free to explore my repositories and projects as I build my journey in tech and AI!
